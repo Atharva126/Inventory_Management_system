@@ -63,14 +63,12 @@ Follow the steps below to set up and run the Inventory Management System on your
 - **6. Display Inventory**: Show a list of all items with their details.
 - **7. Display Total Inventory
 
-📊 Sample Output
-+---------------+----------+----------+---------------+
-| Item Name     | Quantity | Price    | Total Value   |
-+---------------+----------+----------+---------------+
-| Apple         | 100      | 2.5      | 250.0         |
-| Banana        | 50       | 1.0      | 50.0          |
-+---------------+----------+----------+---------------+
-Total inventory value: 300.0
+## 📊 Sample Output
++---------------+----------+----------+---------------+ | Item Name | Quantity | Price | Total Value | +---------------+----------+----------+---------------+ | Apple | 100 | 2.5 | 250.0 | | Banana | 50 | 1.0 | 50.0 | | Orange | 70 | 1.5 | 105.0 | +---------------+----------+----------+---------------+ Total inventory value: 405.0
 
-THANK YOU !
+
+
+
+
+##THANK YOU !
 
