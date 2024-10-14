@@ -65,7 +65,7 @@ Follow the steps below to set up and run the Inventory Management System on your
 
 ## 📊 Sample Output
 - **+---------------+----------+----------+---------------+
-_ **| Item Name     | Quantity | Price    | Total Value   |
+_ **|`Item Name`````|`Quantity`|`Price````|`Total Value```|
 - **+---------------+----------+----------+---------------+
 - **| Apple         | 100      | 2.5       | 250.0        |
 - **| Banana        | 50       | 1.0       | 50.0         |
